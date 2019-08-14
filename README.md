@@ -1,6 +1,12 @@
 # music_app
 
-A new Flutter project.
+A music app developed by @marcosvro to pratice using Flutter framework.
+
+
+Home Page            |  Library Page
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/marcosvro/music-app/master/src/Screenshot_home.png)  |  ![](https://raw.githubusercontent.com/marcosvro/music-app/master/src/Screenshot_library.png)
+
 
 ## Getting Started
 
