@@ -5,7 +5,7 @@ A music app developed by @marcosvro to pratice using Flutter framework.
 
 Home Page            |  Library Page
 :-------------------------:|:-------------------------:
-![alt text](https://raw.githubusercontent.com/marcosvro/music-app/master/src/Screenshot_home.png)  |  ![alt text](https://raw.githubusercontent.com/marcosvro/music-app/master/src/Screenshot_library.png)
+![alt text](https://github.com/marcosvro/music-app/blob/master/Screenshot_home.png)  |  ![alt text](https://github.com/marcosvro/music-app/blob/master/Screenshot_library.png)
 
 
 ## Getting Started
